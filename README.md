@@ -1,5 +1,5 @@
 # Chat-Socket
-Chat com Socket Assíncrono e conversas em grupos
+Chat com Socket Assíncrono
 
 ## Autor
 Luca Assumpção Dillenburg
