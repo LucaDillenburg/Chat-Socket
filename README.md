@@ -1,8 +1,5 @@
 # Chat-Socket
-Chat com Socket Assíncrono
+Chat em grupo com Socket Assíncrono
 
-## Autor
+### Autor
 Luca Assumpção Dillenburg
-
-### Funcionalidades:
- - chat em grupos
